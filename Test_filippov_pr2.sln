@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_filippov_pr2", "Test_f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskTest", "MathTaskTest\MathTaskTest.csproj", "{63A997A6-306D-4450-AD20-CB6C132C2E72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{04E3798C-B657-4C88-A74C-474BF99C3187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{63A997A6-306D-4450-AD20-CB6C132C2E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A997A6-306D-4450-AD20-CB6C132C2E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A997A6-306D-4450-AD20-CB6C132C2E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E3798C-B657-4C88-A74C-474BF99C3187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E3798C-B657-4C88-A74C-474BF99C3187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E3798C-B657-4C88-A74C-474BF99C3187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E3798C-B657-4C88-A74C-474BF99C3187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
